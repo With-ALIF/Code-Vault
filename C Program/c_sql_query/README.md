@@ -11,7 +11,6 @@ It can read data from `.txt` files (representing tables) and execute `SELECT` qu
 - `main.c` → Source code
 - `students.txt` → Sample table data
 - `README.md` → Project details
-- `docs/` → Screenshots & test queries
 
 ## ⚡ Features
 - Parse and validate simplified SQL queries  
